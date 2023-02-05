@@ -11,4 +11,5 @@ You can encrypt/decrypt a file. You can use two mode. One of them is private mod
 ![kpr](https://user-images.githubusercontent.com/111886794/216830140-c1db9558-2b89-45f7-8112-2f42ca6cd6a7.gif)
 
 You can change/add/remove the login password. If you use KePri on many device, you can sync them. You can reach the user manual in setting menu.
+
 ![kprsttng](https://user-images.githubusercontent.com/111886794/216830158-f295a217-33f6-4936-9d4f-35ab9c841d81.gif)
